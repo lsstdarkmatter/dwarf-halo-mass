@@ -1,1 +1,21 @@
 Abundance and kinematics of dwarfs to estimate halo mass of dwarfs.  Can it work? 
+
+1. Is it possible to use the abundance and kinematics of globulars to measure halo masses?  Multiple considerations:
+  (a)how many globulars are there as a function of halo mass?
+  (b)what is the total stellar mass in globulars as a function of host mass?
+  (c)how concentrated is the distribution in the halo?
+ 
+2. Additional considerations:
+  (a)how many globulars will LSST find for a given type of galaxy, and out to what distance?
+  (b)is spectrscopic follow-up possible?
+  
+1(a) and 1(b) are coupled, tied together by globular cluster mass function.  According to inside sources (Jay Strader), the globular cluster mass function (normed) is not a strong function of halo mass.
+Answers to 1(a):
+  -have not found a good ref or reproduced it myself (Annika) from other data.
+Answers to 1(b):
+  -Hudson et al: http://iopscience.iop.org/article/10.1088/2041-8205/787/1/L5/pdf
+  The ratio of the total stellar mass in globulars to halo mass is 4x10-5 with 0.2 dex scatter
+  -Mike B-K paper: http://adsabs.harvard.edu/abs/2017MNRAS.472.3120B see section 5.
+  So: maybe? we can get a noisy-ish measurement of LMC-mass halos.  It will be hard to push down, will be at the <N> ~ 1 limit below.
+Answers to 1(c):
+  -
