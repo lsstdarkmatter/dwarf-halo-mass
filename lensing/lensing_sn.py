@@ -1,3 +1,4 @@
+from __future__ import print_function
 import numpy as np
 import matplotlib.pyplot as plt
 import galsim
@@ -44,7 +45,7 @@ logm = np.log10(dat[0,:])
 abundance = dat[1,:]
 conc = dat[2,:]
 n_bin = len(logm)
-print 'Read in %d mass bins from file %s'%(n_bin, input_data_file)
+print('Read in %d mass bins from file %s'%(n_bin, input_data_file))
 
 #### First calculation: Establish number of actual lenses in each bin in log(M).
 # Plot the result for posterity.
