@@ -9,7 +9,7 @@ Abundance and kinematics of dwarfs to estimate halo mass of dwarfs.  Can it work
   (a)how many globulars will LSST find for a given type of galaxy, and out to what distance?
   (b)is spectrscopic follow-up possible?
   
-1(a) and 1(b) are coupled, tied together by globular cluster mass function.  The shape of the globular cluster mass function (normed) is not a strong function of halo mass, a fact which has meant that it gets used as a distance indicator.
+1(a) and 1(b) are coupled, tied together by globular cluster mass function.  The shape of the globular cluster mass function (normed) is not a strong function of halo mass, a fact which has meant that it gets used as a distance indicator (https://ned.ipac.caltech.edu/level5/Sept13/Kissler/Kissler7.html#7.1).
 Answers to 1(a):
   -Mild trend with halo mass: http://adsabs.harvard.edu/abs/2017ApJ...836...67H (Harris et al. 2017).
 Answers to 1(b):
